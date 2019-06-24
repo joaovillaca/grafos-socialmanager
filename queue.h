@@ -1,3 +1,9 @@
+// Trabalho final da disciplina de grafos 2019/1
+// Tema 3: rede social de amizade "verdadeira"
+// João Vitor Nascimento Villaça - 10724239
+// Luca Machado Bottino - 9760300
+// Luís Eduardo Rozante de Freitas Pereira - 10734794
+
 // Fila estática que não precisa shiftar. 
 
 # ifndef QUEUE_H
